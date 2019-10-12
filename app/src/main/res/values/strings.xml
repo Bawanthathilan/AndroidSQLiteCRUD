@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IT18175080</string>
+    <string name="Username">User Name</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="dob">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="update">Update Profie</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+</resources>
